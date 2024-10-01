@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+    color: black;
+}
+li{
+    list-style-type:lower-latin
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
